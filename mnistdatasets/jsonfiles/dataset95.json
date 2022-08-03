@@ -1,0 +1,8 @@
+{
+    "name": "MNIST dataset95",
+    "description": "This dataset contains handwritten digits",
+    "url": "https://raw.githubusercontent.com/gauravratnakar256/flamedatasets/main/mnistdatasets/datasets/mnist95.npz",
+    "dataFormat": "npy",
+    "realm": "default/us/org95",
+    "isPublic": true
+}
